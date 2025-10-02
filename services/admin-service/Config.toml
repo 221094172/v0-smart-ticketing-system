@@ -1,0 +1,2 @@
+mongodbUri = "mongodb://admin:password123@mongodb:27017/transport_ticketing?authSource=admin"
+kafkaBootstrapServers = "kafka:9092"
